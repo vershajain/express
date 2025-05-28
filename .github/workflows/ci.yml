@@ -16,6 +16,7 @@ on:
 
 permissions:
   contents: read
+  versha
 
 # Cancel in progress workflows
 # in the scenario where we already had a run going for that PR/branch/tag but then triggered a new run
